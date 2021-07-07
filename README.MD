@@ -214,7 +214,53 @@
 
 ​              [08 - Classes](https://xpcorp.gama.academy/aluno/playlist/368/2670)            
 
-​              [09 - Exercícios](https://xpcorp.gama.academy/aluno/playlist/368/2671)            
+​              [09 - Exercícios](https://xpcorp.gama.academy/aluno/playlist/368/2671) 
+
+#### Módulo 05 - JavaScript II **||** 01 - Revisão JavaScript Básico
+
+​              [01 - Revisão JavaScript Básico](https://xpcorp.gama.academy/aluno/playlist/369/2672)            
+
+​              [02 - Tamplete String](https://xpcorp.gama.academy/aluno/playlist/369/2673)            
+
+​              [03 - Operador Ternário](https://xpcorp.gama.academy/aluno/playlist/369/2674)            
+
+​              [04 - Arrow Functions](https://xpcorp.gama.academy/aluno/playlist/369/2675)            
+
+​              [05 - Arrays, Spread & Métodos](https://xpcorp.gama.academy/aluno/playlist/369/2676)            
+
+​              [06 - Objetos Destructuring](https://xpcorp.gama.academy/aluno/playlist/369/2677)            
+
+​              [07 - SPA, PWA E Webcomponents](https://xpcorp.gama.academy/aluno/playlist/369/2678)            
+
+​              [08 - Projeto](https://xpcorp.gama.academy/aluno/playlist/369/2679)
+
+#### Módulo 06 - Typescript **||** 01 - Introdução
+
+​              [01 - Introdução](https://xpcorp.gama.academy/aluno/playlist/371/2703)            
+
+​              [02 - Instalando e Usando o TypeScript](https://xpcorp.gama.academy/aluno/playlist/371/2704)            
+
+​              [03 - Tipos Básicos](https://xpcorp.gama.academy/aluno/playlist/371/2705)            
+
+​              [04 - Tipo Never](https://xpcorp.gama.academy/aluno/playlist/371/2706)            
+
+​              [05 - Múltiplos tipos com Union Types](https://xpcorp.gama.academy/aluno/playlist/371/2707)            
+
+​              [06 - Type Alias](https://xpcorp.gama.academy/aluno/playlist/371/2708)            
+
+​              [07 - Valores nulos ou opcionais](https://xpcorp.gama.academy/aluno/playlist/371/2709)            
+
+​              [08 - Type Assertion](https://xpcorp.gama.academy/aluno/playlist/371/2710)            
+
+​              [09 - Interfaces](https://xpcorp.gama.academy/aluno/playlist/371/2711)            
+
+​              [10 - Classes](https://xpcorp.gama.academy/aluno/playlist/371/2712)            
+
+​              [11 - Configurando o target do TypeScript](https://xpcorp.gama.academy/aluno/playlist/371/2713)            
+
+​              [12 - Utilizando Modificadores de Acesso](https://xpcorp.gama.academy/aluno/playlist/371/2714)            
+
+​              [13 - Herança](https://xpcorp.gama.academy/aluno/playlist/371/2715)   
 
 #### Módulo 07 - React **||** 01 - Por que React?
 
